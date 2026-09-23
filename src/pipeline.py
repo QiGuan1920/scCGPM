@@ -49,7 +49,7 @@ from .utils import set_seed
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="ChemGuide: GSE112274 / Gefitinib cross-domain response prediction."
+        description="scCGPM: GSE112274 / Gefitinib cross-domain response prediction."
     )
     parser.add_argument(
         "--data-dir",
