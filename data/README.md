@@ -1,6 +1,6 @@
 # Data layout
 
-The training code expects the following files. Large or third-party datasets are not bundled with the repository.
+The training code expects the following files. 
 
 ```text
 data/
