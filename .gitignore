@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Research data and generated outputs
+data/gdsc/*.csv
+data/gse112274/*.csv
+data/pathways/*.gmt
+results/**
+!results/.gitkeep
+
+# Model / notebook artifacts
+*.pt
+*.pth
+*.ckpt
+.ipynb_checkpoints/
