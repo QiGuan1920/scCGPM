@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Command-line entry point for ChemGuide GSE112274."""
+"""Command-line entry point for scCGPM."""
 
 from src.pipeline import main
 
